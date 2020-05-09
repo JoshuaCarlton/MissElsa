@@ -28,9 +28,6 @@ This is my [Deploy Code](https://heroku.com/deploy?template=https://github.com/J
 you can create clone same like me..
 
 **Keep in mind that any changes you DO do to the source have to be on github, as per the license.**
-
-[Support](buttonurl://t.me/Elsa_Supports)[Movie Group](buttonurl://t.me/MC_MovieWorld_Group:same)
-
 """
 
 HELP_STRINGS = """
