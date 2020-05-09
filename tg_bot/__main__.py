@@ -20,16 +20,16 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 PM_START_TEXT = """
 hoi {}, my name is {}! if you have any questions about how to use me please give me /help... 
 
-im a group manager bot maintained by  [this person](tg://user?id={}).
+Im a group manager bot maintained by  [this person](tg://user?id={}).
 
-My future updates will be put into This Channel - @MarieChechi & My Support Group @InFoTelGroup.
+Join @Elsa_Supports For Future updates and Support.
 
-This is my [Deploy Code](https://heroku.com/deploy?template=https://github.com/TGExplore/Marie-2.0-English),
+This is my [Deploy Code](https://heroku.com/deploy?template=https://github.com/JoshuaCarlton/MissElsa),
 you can create clone same like me..
 
-For more commands click /help...
-
 **Keep in mind that any changes you DO do to the source have to be on github, as per the license.**
+
+[Support](buttonurl://t.me/Elsa_Supports)[Movie Group](buttonurl://t.me/MC_MovieWorld_Group:same)
 
 """
 
